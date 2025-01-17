@@ -33,6 +33,4 @@ public class CountDuplicates
         
         return duplicatedChars;
     }
-    
-    
 }
